@@ -1,0 +1,1 @@
+Prosta klasa napisana w jezyku C
